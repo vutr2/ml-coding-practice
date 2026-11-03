@@ -1,0 +1,5 @@
+numpy>=1.24
+pandas>=2.0
+pytest>=7.0
+# Bài 29 cần PyTorch. Các test so sánh với PyTorch ở bài 28, 31–34 sẽ tự bỏ qua nếu chưa cài.
+torch>=2.0

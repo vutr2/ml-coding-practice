@@ -1,0 +1,21 @@
+name: ML coding tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  grade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Cài thư viện
+        run: |
+          pip install numpy pandas pytest
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+      - name: Chấm bài
+        # Xanh khi mọi bài đã làm đều Accepted. Bài chưa làm không bị tính là lỗi.
+        run: python run.py --ci

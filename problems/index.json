@@ -1,0 +1,326 @@
+[
+ {
+  "id": 1,
+  "slug": "cosine_similarity",
+  "folder": "01_cosine_similarity",
+  "title": "Cosine Similarity",
+  "difficulty": "Easy",
+  "lesson": "Bài 1 Vector",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 2,
+  "slug": "matmul",
+  "folder": "02_matmul",
+  "title": "Matrix Multiplication",
+  "difficulty": "Easy",
+  "lesson": "Bài 2 Ma trận",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 3,
+  "slug": "numerical_gradient",
+  "folder": "03_numerical_gradient",
+  "title": "Numerical Gradient",
+  "difficulty": "Easy",
+  "lesson": "Bài 3 Đạo hàm & gradient",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 4,
+  "slug": "neuron_chain_rule",
+  "folder": "04_neuron_chain_rule",
+  "title": "Single Neuron Backprop (Chain Rule)",
+  "difficulty": "Medium",
+  "lesson": "Bài 4 Chain rule",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 5,
+  "slug": "softmax",
+  "folder": "05_softmax",
+  "title": "Stable Softmax",
+  "difficulty": "Easy",
+  "lesson": "Bài 5 Xác suất",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 6,
+  "slug": "gaussian_mle",
+  "folder": "06_gaussian_mle",
+  "title": "Gaussian MLE",
+  "difficulty": "Easy",
+  "lesson": "Bài 6 MLE",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 7,
+  "slug": "gradient_descent",
+  "folder": "07_gradient_descent",
+  "title": "Gradient Descent",
+  "difficulty": "Easy",
+  "lesson": "Bài 7 Gradient descent",
+  "part": "Phần 1 · Toán"
+ },
+ {
+  "id": 8,
+  "slug": "clean_dataframe",
+  "folder": "08_clean_dataframe",
+  "title": "Clean a DataFrame (Pandas)",
+  "difficulty": "Easy",
+  "lesson": "Bài 9–10 Pandas & làm sạch dữ liệu",
+  "part": "Phần 2 · Dữ liệu"
+ },
+ {
+  "id": 9,
+  "slug": "standardize",
+  "folder": "09_standardize",
+  "title": "Standard Scaler (no leakage)",
+  "difficulty": "Easy",
+  "lesson": "Bài 11–12 Feature engineering & leakage",
+  "part": "Phần 2 · Dữ liệu"
+ },
+ {
+  "id": 10,
+  "slug": "one_hot",
+  "folder": "10_one_hot",
+  "title": "One-Hot Encoding",
+  "difficulty": "Easy",
+  "lesson": "Bài 11 Feature engineering",
+  "part": "Phần 2 · Dữ liệu"
+ },
+ {
+  "id": 11,
+  "slug": "kfold_split",
+  "folder": "11_kfold_split",
+  "title": "K-Fold Cross-Validation Split",
+  "difficulty": "Medium",
+  "lesson": "Bài 12 Train/test & leakage",
+  "part": "Phần 2 · Dữ liệu"
+ },
+ {
+  "id": 12,
+  "slug": "linear_regression_normal_equation",
+  "folder": "12_linear_regression_normal_equation",
+  "title": "Linear Regression (Normal Equation)",
+  "difficulty": "Easy",
+  "lesson": "Bài 13 Linear regression",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 13,
+  "slug": "linear_regression_gd",
+  "folder": "13_linear_regression_gd",
+  "title": "Linear Regression (Gradient Descent)",
+  "difficulty": "Medium",
+  "lesson": "Bài 13 Linear regression",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 14,
+  "slug": "logistic_regression",
+  "folder": "14_logistic_regression",
+  "title": "Logistic Regression from Scratch",
+  "difficulty": "Medium",
+  "lesson": "Bài 14 Logistic regression",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 15,
+  "slug": "classification_metrics",
+  "folder": "15_classification_metrics",
+  "title": "Confusion Matrix, Precision, Recall, F1",
+  "difficulty": "Easy",
+  "lesson": "Bài 14 Logistic regression (metrics)",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 16,
+  "slug": "roc_auc",
+  "folder": "16_roc_auc",
+  "title": "ROC AUC",
+  "difficulty": "Medium",
+  "lesson": "Bài 14 Logistic regression (ROC)",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 17,
+  "slug": "ridge_regression",
+  "folder": "17_ridge_regression",
+  "title": "Ridge Regression",
+  "difficulty": "Easy",
+  "lesson": "Bài 15 Overfitting & regularization",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 18,
+  "slug": "knn",
+  "folder": "18_knn",
+  "title": "K-Nearest Neighbors",
+  "difficulty": "Easy",
+  "lesson": "Phần 3 ML cổ điển",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 19,
+  "slug": "decision_tree_split",
+  "folder": "19_decision_tree_split",
+  "title": "Decision Tree: Gini & Best Split",
+  "difficulty": "Medium",
+  "lesson": "Bài 16 Cây quyết định",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 20,
+  "slug": "gradient_boosting_stumps",
+  "folder": "20_gradient_boosting_stumps",
+  "title": "Gradient Boosting with Stumps",
+  "difficulty": "Medium",
+  "lesson": "Bài 17 Ensemble",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 21,
+  "slug": "svm_hinge_loss",
+  "folder": "21_svm_hinge_loss",
+  "title": "Linear SVM (Hinge Loss)",
+  "difficulty": "Medium",
+  "lesson": "Bài 18 SVM",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 22,
+  "slug": "pca",
+  "folder": "22_pca",
+  "title": "PCA from Scratch",
+  "difficulty": "Medium",
+  "lesson": "Bài 19 PCA",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 23,
+  "slug": "kmeans",
+  "folder": "23_kmeans",
+  "title": "K-Means Clustering",
+  "difficulty": "Medium",
+  "lesson": "Phần 3 ML cổ điển (học không giám sát)",
+  "part": "Phần 3 · ML cổ điển"
+ },
+ {
+  "id": 24,
+  "slug": "activations",
+  "folder": "24_activations",
+  "title": "Activation Functions & Derivatives",
+  "difficulty": "Easy",
+  "lesson": "Bài 20 Neuron & hàm kích hoạt",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 25,
+  "slug": "linear_layer_backward",
+  "folder": "25_linear_layer_backward",
+  "title": "Linear Layer Forward & Backward",
+  "difficulty": "Medium",
+  "lesson": "Bài 22 Backprop bằng NumPy",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 26,
+  "slug": "softmax_cross_entropy",
+  "folder": "26_softmax_cross_entropy",
+  "title": "Softmax Cross-Entropy (Forward & Backward)",
+  "difficulty": "Medium",
+  "lesson": "Bài 22 Backprop bằng NumPy",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 27,
+  "slug": "mlp_from_scratch",
+  "folder": "27_mlp_from_scratch",
+  "title": "2-Layer MLP from Scratch",
+  "difficulty": "Hard",
+  "lesson": "Bài 21–22 MLP & Backprop",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 28,
+  "slug": "optimizers",
+  "folder": "28_optimizers",
+  "title": "SGD with Momentum & Adam",
+  "difficulty": "Medium",
+  "lesson": "Bài 23 Optimizers & Adam",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 29,
+  "slug": "pytorch_training_loop",
+  "folder": "29_pytorch_training_loop",
+  "title": "PyTorch Training Loop",
+  "difficulty": "Medium",
+  "lesson": "Bài 24 PyTorch",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 30,
+  "slug": "dropout_batchnorm",
+  "folder": "30_dropout_batchnorm",
+  "title": "Dropout & BatchNorm",
+  "difficulty": "Medium",
+  "lesson": "Bài 15 Regularization · Bài 25 CNN",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 31,
+  "slug": "conv2d_maxpool",
+  "folder": "31_conv2d_maxpool",
+  "title": "Conv2D & MaxPool from Scratch",
+  "difficulty": "Medium",
+  "lesson": "Bài 25 CNN",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 32,
+  "slug": "lstm_cell",
+  "folder": "32_lstm_cell",
+  "title": "LSTM Cell & Sequence",
+  "difficulty": "Medium",
+  "lesson": "Bài 26 RNN/LSTM",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 33,
+  "slug": "scaled_dot_product_attention",
+  "folder": "33_scaled_dot_product_attention",
+  "title": "Scaled Dot-Product Attention",
+  "difficulty": "Medium",
+  "lesson": "Bài 27 Transformer",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 34,
+  "slug": "multi_head_attention",
+  "folder": "34_multi_head_attention",
+  "title": "Multi-Head Self-Attention",
+  "difficulty": "Hard",
+  "lesson": "Bài 27 Transformer",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 35,
+  "slug": "positional_encoding",
+  "folder": "35_positional_encoding",
+  "title": "Sinusoidal Positional Encoding",
+  "difficulty": "Easy",
+  "lesson": "Bài 27 Transformer",
+  "part": "Phần 4 · Deep Learning"
+ },
+ {
+  "id": 36,
+  "slug": "llm_sampling",
+  "folder": "36_llm_sampling",
+  "title": "LLM Sampling: Temperature, Top-k, Top-p",
+  "difficulty": "Medium",
+  "lesson": "Phần 5 AI Engineering (LLM)",
+  "part": "Phần 5 · AI Engineering"
+ }
+]

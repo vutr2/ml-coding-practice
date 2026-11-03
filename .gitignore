@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+# Lời giải mẫu chỉ để trên máy bạn, không đẩy lên GitHub
+_solutions/
