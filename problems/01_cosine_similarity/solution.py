@@ -13,7 +13,6 @@ def cosine_similarity(a, b):
 
     vec2 = np.sqrt(np.sum(y*y))
 
-    if vec1 * vec2 == 0:
-        return 0.0
-
-    return dot_pro / (vec1 * vec2)
+    if vec1 * vec2 != 0:
+        return dot_pro / (vec1 * vec2)
+    return 0.0

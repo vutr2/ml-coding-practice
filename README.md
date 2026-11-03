@@ -71,12 +71,12 @@ GitHub Actions tự chấm lại mỗi lần push. Huy hiệu ở đầu trang m
 ## Tiến độ
 
 <!-- PROGRESS:START -->
-**Đã giải: 1/36**
+**Đã giải: 2/36**
 
 | # | Bài | Độ khó | Bài học | Trạng thái |
 |---|-----|--------|---------|------------|
 | 01 | [Cosine Similarity](problems/01_cosine_similarity/README.md) | Easy | Bài 1 Vector | ✅ Accepted |
-| 02 | [Matrix Multiplication](problems/02_matmul/README.md) | Easy | Bài 2 Ma trận | ⬜ Chưa làm |
+| 02 | [Matrix Multiplication](problems/02_matmul/README.md) | Easy | Bài 2 Ma trận | ✅ Accepted |
 | 03 | [Numerical Gradient](problems/03_numerical_gradient/README.md) | Easy | Bài 3 Đạo hàm & gradient | ⬜ Chưa làm |
 | 04 | [Single Neuron Backprop (Chain Rule)](problems/04_neuron_chain_rule/README.md) | Medium | Bài 4 Chain rule | ⬜ Chưa làm |
 | 05 | [Stable Softmax](problems/05_softmax/README.md) | Easy | Bài 5 Xác suất | ⬜ Chưa làm |
